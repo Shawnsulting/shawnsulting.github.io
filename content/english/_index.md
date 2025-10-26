@@ -8,7 +8,7 @@ banner:
 # Features
 features:
   - title: "Knowledgeable"
-    image: "/images/service-1.png"
+    image: "/images/knowledge.png"
     content: 'According to Werner Heisenberg, "An expert is someone who knows some of the worst mistakes that can be made in his subject, and how to avoid them." With over two decades of experience in government, industry, and academia, I have first hand experience of the worst mistakes an organization can make and best practices on how to avoid them.'
     bulletpoints:
       - "Over 25 years of experience in technology. I've earned my grey beard"
