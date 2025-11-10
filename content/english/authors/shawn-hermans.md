@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Shawn Hermans
+email: shawn@shawnsulting.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
