@@ -1,0 +1,46 @@
+---
+# Banner
+banner:
+  title: "Turn Information into Knowledge"
+  content: "Revelations of modern engineering, biology, and physics teach us information is as fundamental to our reality as matter and energy. Just as a master woodworker turns raw matter into works of art and functionality, Shawnsulting turns raw information into refined, actionable knowledge."
+  image: "/images/banner.png"
+
+# Features
+features:
+  - title: "Knowledgeable"
+    image: "/images/knowledge.png"
+    content: "*New knowledge is the most valuable commodity on earth. The more truth we have to work with, the 
+    richer we become. -- Kurt Vonnegut*\n\n\nWith over two decades of experience in government, industry, and 
+    academia, I 
+    have first hand experience of the worst mistakes an organization can make and best practices on how to avoid them."
+    bulletpoints:
+      - "Over 25 years of experience in technology, mathematics, science, and analysis"
+      - "Proven track record across a wide range of industries including government, advertising, insurance, and academia"
+      - "Up to date on the latest trends"
+      - "Multiple topics: Cryptographic, data governance, bioinformatics, geospatial analysis"
+    button:
+      enable: true
+      label: "Get Started Now"
+      link: "/contact"
+
+  - title: "Versatile"
+    image: "/images/service-2.png"
+    content: "In business as in life, it isn't the fittest that survive, but the most adaptable. Management and technology trends come and go. Your business needs a consultant who can change with the times."
+    bulletpoints:
+      - "Flexible methodology: I use a general framework that I tailor to suit your unique needs."
+      - "Diverse toolbox: As the familiar saying goes, every problem looks like a nail. "
+      - "On demand expertise:"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "/methodology"
+
+  - title: "Trustworthy"
+    image: "/images/seal.png"
+    content: "When you hire Shawnsulting, what you see is what you get. Shawnsulting is owned and run by Shawn 
+    Hermans and his partner Jammie Hermans."
+    bulletpoints:
+      - "Genuine: Shawnsulting uses 100% authentic human labor and intelligence."
+      - "Vendor-independent: "
+      - "Honest: "
+---
