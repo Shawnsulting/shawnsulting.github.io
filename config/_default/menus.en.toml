@@ -12,39 +12,50 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
 weight = 3
-
-[[main]]
-weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
 name = "Blog"
 url = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+weight = 4
+name = "Services"
+url = "/services"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+weight = 1
+parent = "Services"
+name = "Data Strategy"
+url = "/services/strategy"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+weight = 2
+parent = "Services"
+name = "Data Science"
+url = "/services/analytics"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+weight = 3
+parent = "Services"
+name = "Data Engineering"
+url = "/services/engineering"
 
+[[main]]
+weight = 4
+parent = "Services"
+name = "Data Governance"
+url = "/services/governance"
+
+[[main]]
+weight = 5
+parent = "Services"
+name = "Data Integration"
+url = "/services/integration"
+
+[[main]]
+weight = 6
+parent = "Services"
+name = "Data Archeology"
+url = "/services/archeology"
 
 # footer menu
 [[footer]]
@@ -53,11 +64,6 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Contact"
+url = "/contact"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
